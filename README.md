@@ -7,7 +7,7 @@ This repository contains code for classifying lung X-ray images using deep learn
 - `classification-224.py`, `classification-299.py`, `classification-331.py`, etc.: Model training scripts for different input sizes.
 - `plot_all_model_curves.py`, `plot_all_model_roc_auc.py`: Scripts for plotting model performance metrics and ROC/AUC curves.
 - `Preprocessing.ipynb`: Data preprocessing and exploration notebook.
-- `results-1/`, `results-2/`, `224-results-1/`, `224-results-2/`, `331-results-1/`, `331-results-2/`: Output folders containing model results and plots.
+- `results-1/`, `results-2/`: Output folders containing model results and plots.
 - `Chest_X-Ray_Image/`, `Data/`, `Dataset-1/`, `Dataset-2/`: Datasets for training and testing.
 
 ## Requirements
